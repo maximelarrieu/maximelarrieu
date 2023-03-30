@@ -1,10 +1,10 @@
 ### Hello World ! 👋
 
-[Accèdez à mon site web](https://maximelarrieu.io)
+[Website](https://maximelarrieu.io)
 
-+ 🥇 Master 1 développement Web et mobile.
-+ 💻 Actuellement en Alternance développement web chez BIOCOLD PROCESS à Caudéran.
-+ 🎮 Plusieurs projets développés grâce à Symfony mais aussi NodeJS & React.
++ 🥇 Mastère 2 web development.
++ 💻 In work study at Unifox from Bordeaux.
++ 🎮 Learning solidity and work with Nuxt3.
 
 <!--
 **maximelarrieu/maximelarrieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
